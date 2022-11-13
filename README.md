@@ -1,1 +1,3 @@
 # Gender Disparity in Unemployment Rates -- Factor Prediction Case Study 
+
+## This repository contains information on the case study of predicting the factors that lead to the disparity in the unemployment rate between males and females. It contains a hook document that gives more context on the case study and the deliverable. It also contains a rubric that outlines what is needed to successfully finish the case study. There is also a folder for preparatory materials to get yourself acquainted to past studies that have been done on this topic and potential datasets that can help get you started. 
